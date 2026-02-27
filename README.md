@@ -62,13 +62,11 @@ This is a local working copy of the NMSU Doctor of Economic Development (DED) pr
 ### Current Students (as of February 2026)
 1. Amoh, Sandra (Fall 2025)
 2. Awuye, Shallan Kwabla (Fall 2022)
-3. Danso, Hayford (Fall 2022) - Graduated 2025
-4. Fullerton, Steven (Fall 2022)
-5. Khaliq, Abdul (Fall 2021)
-6. Maina, Simon K. (Fall 2022)
-7. Pervez, Iqbal Uddin (Fall 2025)
-8. Shahrin, Fahria (Fall 2025)
-9. Turaki, Brian (Fall 2022)
+3. Fullerton, Steven (Fall 2022)
+4. Maina, Simon K. (Fall 2022)
+5. Pervez, Iqbal Uddin (Fall 2025)
+6. Shahrin, Fahria (Fall 2025)
+7. Turaki, Brian (Fall 2022)
 
 ### Student Photo Requirements
 - Format: JPG preferred (PNG acceptable)
