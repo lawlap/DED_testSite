@@ -21,7 +21,10 @@
       "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" api repos/lawlap/DED_testSite/pages -X POST -f build_type=legacy -f source='{\"\"branch\"\":\"\"main\"\",\"\"path\"\":\"\"/\"\"}')",
       "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" repo view lawlap/DED_testSite --json visibility)",
       "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" api repos/lawlap/DED_testSite/pages/builds/latest)",
-      "Bash(start https://lawlap.github.io/DED_testSite/)"
+      "Bash(start https://lawlap.github.io/DED_testSite/)",
+      "WebFetch(domain:lawlap.github.io)",
+      "Bash(\"/c/Program Files/GitHub CLI/gh.exe\" api repos/lawlap/DED_testSite/pages/builds/latest --jq '.status')",
+      "Bash(powershell -ExecutionPolicy Bypass -File \"C:\\\\Users\\\\llaplue\\\\OneDrive - New Mexico State University\\\\NMSU\\\\DED Stuff\\\\read_excel.ps1\")"
     ]
   }
 }

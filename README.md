@@ -136,11 +136,10 @@ Placement data sourced from: `../DED Placement Info.xlsx` (in parent directory)
 - Pavel Trejo (LinkedIn shows 2014)
 - Michael Fakutiju (LinkedIn shows 2017)
 - Brett Burke (LinkedIn shows 2022)
-- Jason Banegas (LinkedIn shows 2024)
 - Ismaiel Abuamoud (LinkedIn shows 2012, but entry year was 2018 - likely erroneous)
 
 **Graduates missing placement info (to update later):**
-- 2025: Abdul Khaliq, Shallan Awuye
+- 2025: Shallan Awuye (currently unemployed per Excel)
 - 2024: Alex Bernal
 - 2022: Brett Burke
 - 2020: Shanelle Trail
