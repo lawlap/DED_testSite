@@ -138,13 +138,7 @@ Placement data sourced from: `../DED Placement Info.xlsx` (in parent directory)
 
 **Graduates missing placement info (to update later):**
 - 2025: Shallan Awuye (currently unemployed per Excel)
-- 2024: Alex Bernal
-- 2022: Md. Ziaur Khan, Luyen Nguyen
-- 2021: Kyle Eagar
-- 2019: Saleh Idhirij
-- 2017: Carlos Silva
-- 2016: Emma Loya Apodaca, Dale Spencer
-- 2013: Steven Chavez
+- 2016: Emma Loya Apodaca
 
 ---
 
